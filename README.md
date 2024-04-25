@@ -45,6 +45,7 @@ Hi, I'm Felipe Castro!
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%234479A1.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?logo=mongodb&logoColor=white"></a>
+  <a href="#"><img alt="DuckDB" src="https://img.shields.io/badge/DuckDB%20-%23000000.svg?logo=duckduckgo&logoColor=yellow"></a>
 </p>
 
 # Connect with me:
