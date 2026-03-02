@@ -5,7 +5,7 @@ Senior Data Engineer | Data Architect | Analytics Specialist
 
 ---
 
-## Professional Summary
+## Summary
 
 Experienced Data Engineer with strong expertise in designing, building and optimizing scalable data platforms.
 
